@@ -1,4 +1,4 @@
-Python
+
 import streamlit as st
 
 # Configuração da página (deve ser o primeiro comando Streamlit)
